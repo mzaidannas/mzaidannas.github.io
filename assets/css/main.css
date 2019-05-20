@@ -2471,4 +2471,18 @@ img[height] {
   display: none !important;
 }
 
+figure {
+  position: relative
+}
+figcaption {
+  position: absolute;
+  width: 200px;
+  line-height: 150px;
+  text-align: center;
+  left: 0;
+  top: 0;
+  text-shadow: 0 0 1px white;
+  font-weight:bold;
+}
+
 /*# sourceMappingURL=main.css.map */
