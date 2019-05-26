@@ -2485,7 +2485,7 @@ figcaption {
   font-weight:bold;
 }
 
-.nivo-lightbox-thumbnail, .nivo-lightbox-image {
+.nivo-lightbox-thumbnail, .nivo-lightbox-image, .c-avatar__img {
   filter: grayscale(1);
 }
 
