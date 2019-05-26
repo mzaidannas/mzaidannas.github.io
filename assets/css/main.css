@@ -2485,4 +2485,8 @@ figcaption {
   font-weight:bold;
 }
 
+.nivo-lightbox-thumbnail, .nivo-lightbox-image {
+  filter: grayscale(1);
+}
+
 /*# sourceMappingURL=main.css.map */
